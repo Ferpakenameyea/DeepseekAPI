@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DeepseekAPI.Tests/DeepseekAPI.Tests.csproj" />
+  <Project Path="DeepseekAPI/DeepseekAPI.csproj" />
+</Solution>
